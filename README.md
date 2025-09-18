@@ -35,7 +35,7 @@ Start the development server:
 npm run dev
 
 
-Open your browser at http://localhost:5173 to see the app running. The server supports hot module replacement, so your changes will appear instantly.
+Open your browser at educase-assignment-flax.vercel.app  to see the app running. The server supports hot module replacement, so your changes will appear instantly.
 
 Project Structure
 popx/
@@ -78,5 +78,6 @@ Create a new branch (git checkout -b feature-name)
 Make your changes and commit (git commit -m "Description")
 
 Push to your branch (git push origin feature-name)
+
 
 Open a Pull Request
